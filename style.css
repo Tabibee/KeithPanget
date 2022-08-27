@@ -1,0 +1,134 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://c.tenor.com/2v1aDCelTJgAAAAC/cat-cats.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* text */
+
+.text{
+    color: white;
+    margin-left: 200px;
+    margin-top: -65px;
+    font-size: 30px;
+    text-shadow: 2px 2px 8px black;
+}
+
+.text1{
+    color: white;
+    margin-left: 200px;
+    margin-top: -90px;
+    font-size: 30px;
+    text-shadow: 2px 2px 8px black;
+}
+
+/* img */
+
+.img1{
+    width: 10%;
+    height: 10%;
+}
+
+.img2{
+    width: 10%;
+    height: 10%;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.img3{
+    width: 10%;
+    height: 10%;
+    margin-top: 70px;
+    margin-left: 5px;
+}
+
+.img4{
+    width: 9%;
+    height: 9%;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.img5{
+    width: 9%;
+    height: 9%;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.img6{
+    width: 10%;
+    height: 10%;
+    margin-top: 65px;
+    margin-left: 10px;
+}
+
+.img7{
+    width: 10%;
+    height: 10%;
+    margin-top: 65px;
+    margin-left: 10px;
+}
+
+.img8{
+    width: 10%;
+    height: 10%;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+/* audio ni ate mo keith */
+
+.audio{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: right;
+    display: flex;
+    margin-top: -1400px;
+    margin-right: 700px;
+    opacity: 50%;
+}
+
+/* kemekeme */
+.keith{
+    font-size: 45px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+.container{
+    color: white;
+    display: flex;
+}
+
+.box{
+    position: relative;
+    animation-duration: 5s;
+    animation-name: boxanimation;
+    color: black;
+    text-shadow: #1877f2;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;  
+}
+
+@keyframes boxanimation{
+    from{
+        left: 0%;
+        color: black;
+        text-shadow: 2px 2px 8px #1877f2;
+    }
+
+    to{
+        left: 0%;
+        color: black;
+        text-shadow: 2px 2px 8px red;
+    }
+}
