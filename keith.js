@@ -1,0 +1,7 @@
+alert("Hello ms KeithKat")
+alert("How are you?")
+alert("I have something for you")
+alert("Kalokohan nanaman sana magustuhan mo hehehe")
+alert("TO GET BETTER EXPERIENCE OPEN IT USEING YOUR PC OR LAPTOP!")
+alert("TO GET BETTER EXPERIENCE OPEN IT USEING YOUR PC OR LAPTOP! (2)")
+alert("TO GET BETTER EXPERIENCE OPEN IT USEING YOUR PC OR LAPTOP! (3)")
